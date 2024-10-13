@@ -1,6 +1,6 @@
 # SEWA
 
-🚨🚨 It's still cooking...DIY (Dockerize It Yourself!!)
+🚨🚨 It's still cooking...no compose yet...DIY (Dockerize It Yourself!!)
 
 
 ## Vehicle Service

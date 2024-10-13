@@ -1,2 +1,5 @@
 # Ignore every script
 **/run-script.ps1
+
+# Ignore target file
+**/target

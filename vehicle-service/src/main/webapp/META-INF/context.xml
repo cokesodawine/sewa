@@ -1,0 +1,14 @@
+<Context>
+    <Resource name="jdbc/vehicle-db"
+              auth="Container"
+              type="javax.sql.DataSource"
+              maxActive="100"
+              maxIdle="30"
+              maxWait="10000"
+              username="sa"
+              password="inventory_db_Pass123"
+              driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+              url="jdbc:sqlserver://inventory_db_container:1433;databaseName=vehicle_database;trustServerCertificate=true"/>
+</Context>
+
+<!--url="jdbc:sqlserver://inventory_db_container:1433;databaseName=vehicle_database;trustServerCertificate=true"/>-->

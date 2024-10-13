@@ -1,0 +1,12 @@
+vehicle_plat,vehicle_avail,vehicle_brand,vehicle_model,vehicle_type,vehicle_color,fee_prhr
+------------,-------------,-------------,-------------,------------,-------------,--------
+ABC123,1,Toyota,Corolla,Sedan,White,0.0
+DEF456,1,Ford,Explorer,SUV,Blue,0.0
+GHI789,1,BMW,X5,SUV,Grey,0.0
+JKL321,1,Mercedes-Benz,C-Class,Sedan,Silver,0.0
+LMN654,1,Chevrolet,Malibu,Sedan,Red,0.0
+MNO333,1,Jeep,Wrangler,SUV,Green,0.0
+PQR444,1,Audi,A4,Sedan,Blue,0.0
+QRS111,1,Tesla,Model S,Electric,White,0.0
+TUV222,1,Nissan,Altima,Sedan,Black,0.0
+XYZ987,1,Honda,Civic,Sedan,Black,0.0
